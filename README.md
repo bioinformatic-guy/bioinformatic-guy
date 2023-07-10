@@ -16,18 +16,18 @@
  <h2 align="center">
     <p>Background</p>
     </h2>
-    <p>Ph.D., Quantitative Biology (Evolutionary Biology, Genetics, Genomics, & Bioinformatics) from <a href="https://www.uta.edu/academics/schools-colleges/science/departments/biology">University of Texas, Arlington</a>.</p>
-    <p>Main academic interest: Convergent, adaptive evolution of vertebrates using cutting-edge genomics approaches. </p>
-    <p>Currently a postdoctoral fellow in the <a href="https://edwards.oeb.harvard.edu/">Edwards lab</a> at Harvard University. </p>
+    <p>M.Tech, Biotechnology and Biochemical Engineering (Genomics, Machine Learning, Sytems biology & Bioinformatics) from <a href="http://www.bt.iitkgp.ac.in/home.html">IIT Kharagpur, India</a>.</p>
+    <p>Main academic interest: Omics Study, Epigenetics. </p>
+<!--     <p>Currently a postdoctoral fellow in the <a href="https://edwards.oeb.harvard.edu/">Edwards lab</a> at Harvard University. </p>
     <p>Previously a graduate student studying in the <a href="https://www.castoelaboratory.org/">Castoe lab</a> at UT-Arlington. </p>
-    <br>
+    <br> -->
 <h2 align="center">
     <p>Genomic Analysis Toolkit</p>
     </h2>
     <p>Genome Sequencing, Assembly, & Annotation, RAD-seq, RNA-seq, ATAC-seq, Hi-C, and more!</p>
     <br>
  <h2 align="center">
-    <p>Coding Languages</p>
+    <p>Programming Languages</p>
     </h2>
     <p align="center">
      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
