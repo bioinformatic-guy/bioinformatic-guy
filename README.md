@@ -16,15 +16,15 @@
  <h2 align="center">
     <p>Background</p>
     </h2>
-    <p>M.Tech, Biotechnology & Biochemical Engineering (Genomics, Machine Learning, Systems biology & Bioinformatics) from <a href="http://www.bt.iitkgp.ac.in/home.html">IIT Kharagpur, India</a>.</p>
-    <p>Main academic interest: Omics Study, Epigenetics. </p>
-<!--     <p>Currently a postdoctoral fellow in the <a href="https://edwards.oeb.harvard.edu/">Edwards lab</a> at Harvard University. </p>
-    <p>Previously a graduate student studying in the <a href="https://www.castoelaboratory.org/">Castoe lab</a> at UT-Arlington. </p>
+    <p>M.Tech, Biotechnology & Biochemical Engineering (Computational structural biology, Machine Learning, Systems biology & Bioinformatics) from <a href="http://www.bt.iitkgp.ac.in/home.html">IIT Kharagpur, India</a>.</p>
+    <p>Main academic interest: Omics Study, Epigenetics, and Bioinformatics. </p>
+<!--     <p>Currently a ______ in the <a href="https://">_______ lab</a> at ________ University. </p>
+    <p>Previously a graduate student studying in the <a href="https://">_____ lab</a> at ______. </p>
     <br> -->
 <h2 align="center">
-    <p>Genomic Analysis Toolkit</p>
+    <p>Transcriptomic Analysis Toolkit</p>
     </h2>
-    <p>Genome Sequencing, Assembly, & Annotation, RAD-seq, RNA-seq, ATAC-seq, Hi-C, and more!</p>
+    <p>Seurat Package, QC, RNA-seq, ATAC-seq, and more!</p>
     <br>
  <h2 align="center">
     <p>Programming Languages</p>
