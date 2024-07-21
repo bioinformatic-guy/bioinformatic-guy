@@ -26,6 +26,11 @@
     </h2>
     <p>Seurat Package, QC, RNA-seq, ATAC-seq, and more!</p>
     <br>
+<h2 align="center">
+    <p>Proteomics Analysis Toolkit</p>
+    </h2>
+    <p>MaxQuant, DIA-NN, Fragpipe, ProteinPilot, Perseus, Alpha-DIA and more!</p>
+    <br>
  <h2 align="center">
     <p>Programming Languages</p>
     </h2>
